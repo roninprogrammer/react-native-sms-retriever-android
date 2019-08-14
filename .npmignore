@@ -1,9 +1,0 @@
-android/.gradle
-android/.idea
-.idea
-android/gradle
-android/build
-android/android.iml
-android/local.properties
-.flowconfig
-.gitattributes
