@@ -1,0 +1,39 @@
+{
+  "name": "reactnative-sms-retriever-api-android",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roninprogrammer/react-native-sms-retriever-android.git"
+  },
+  "keywords": [
+    "react-native",
+    "sms",
+    "retriever",
+    "android",
+    "verification",
+    "otp"
+  ],
+  "author": "Vicknesh Balasubramaniam",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/preset-flow": "^7.0.0",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import-order-autofix": "^0.8.3",
+    "eslint-plugin-react-native": "^3.7.0",
+    "flow-bin": "^0.105.2",
+    "react-native": "^0.57.7"
+  }
+}
