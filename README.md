@@ -1,5 +1,5 @@
 
-#reactnative-sms-retriever-api-android [![npm version](https://badge.fury.io/js/reactnative-sms-retriever-api-android.svg)](https://badge.fury.io/js/reactnative-sms-retriever-api-android)
+# reactnative-sms-retriever-api-android [![npm version](https://badge.fury.io/js/reactnative-sms-retriever-api-android.svg)](https://badge.fury.io/js/reactnative-sms-retriever-api-android)
 
 ## Getting started
 
